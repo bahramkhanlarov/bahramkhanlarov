@@ -16,7 +16,8 @@ I'm a data analyst with a passion for turning data into actionable insights.
 - Data Visualization, Machine Learning, Deep Learning, etc.
 
 
-📬 Get in Touch
-GitHub: github.com/bahramkhanlarov
-LinkedIn: linkedin.com/in/bahramkhanlarov/
-E-mail: bahram.khanlarov@stud.hslu.ch
+## 📬 Get in Touch
+
+- GitHub: github.com/bahramkhanlarov
+- LinkedIn: linkedin.com/in/bahramkhanlarov/
+- E-mail: bahram.khanlarov@stud.hslu.ch
