@@ -3,7 +3,10 @@
 
 
 ## 🚀 About Me
-I'm a data analyst with a passion for turning data into actionable insights.
+
+Currently enrolled in Master of Science in Applied Information and Data Science in HSLU Lucerne, I am transitioning into the world of data analytics and data science.I am willing to dive in at a granular level to mine and understand complex patterns, trends, and relations in data to surface hidden insight that can help and enable companies to make smarter business decisions and take appropriate actions to gain competitive advantages in the market.Graduate of bachelor from Glion and MBA from FHGR with 8 years of solid working experience in different management roles in Swiss Hospitality Industry.
+
+I'm a junior data analyst with a passion for turning data into actionable insights.
 
 - 🔭 I’m currently working on InsideAirbnb data exploring What factors determine the price of Airbnb listings in Zurich and how do they vary across neighbourhoods and property characteristics?
 
