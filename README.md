@@ -12,8 +12,10 @@ I'm a data analyst with a passion for turning data into actionable insights.
 - 😄 Pronouns: People call me Barack and some Bayram :)
 - ⚡ Fun fact: I can speak four languages fluently.
 
-## 🛠 Skills
+## 🛠 Skills & Certifications
 - Data Visualization, Machine Learning, Deep Learning, etc.
+- DP900 Microsoft Certified: Azure Data Fundamentals
+- SC900 Microsoft Certified: Security, Compliance, and Identity Fundamentals
 
 
 ## 📬 Get in Touch
