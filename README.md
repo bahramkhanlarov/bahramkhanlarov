@@ -16,5 +16,4 @@ I'm a data analyst with a passion for turning data into actionable insights.
 ## 🛠 Skills
 - Data Visualization, Machine Learning, Deep Learning, etc.
 
-![Metrics](https://metrics.lecoq.io/[bahramkhanlarov]?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FZurich)
 
