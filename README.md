@@ -17,6 +17,9 @@ I'm a junior data analyst with a passion for turning data into actionable insigh
 
 ## 🛠 Skills & Certifications
 - Data Visualization, Machine Learning, Deep Learning, etc.
+- Web Scraping
+- Apache Hop
+- SQL, MongoDB
 - DP900 Microsoft Certified: Azure Data Fundamentals
 - SC900 Microsoft Certified: Security, Compliance, and Identity Fundamentals
 - PL300: Microsoft Power BI Data Analyst
