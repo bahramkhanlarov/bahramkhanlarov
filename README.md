@@ -10,7 +10,7 @@ I'm a junior data analyst with a passion for turning data into actionable insigh
 
 - 🔭 I’m currently working on InsideAirbnb data exploring What factors determine the price of Airbnb listings in Zurich and how do they vary across neighbourhoods and property characteristics?
 
-- 🌱 I’m currently preparing Exam PL-300: Microsoft Power BI Data Analyst and Azure Data Scientist Associate certification
+- 🌱 I’m currently preparing Exam DP-203: Data Engineering on Microsoft Azure certification
 
 - 😄 Pronouns: People call me Barack and some Bayram :)
 - ⚡ Fun fact: I can speak four languages fluently.
