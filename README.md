@@ -19,6 +19,8 @@ I'm a junior data analyst with a passion for turning data into actionable insigh
 - Data Visualization, Machine Learning, Deep Learning, etc.
 - DP900 Microsoft Certified: Azure Data Fundamentals
 - SC900 Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- PL300: Microsoft Power BI Data Analyst
+- Dp100: Azure Data Scientist Associate
 
 
 ## 📬 Get in Touch
