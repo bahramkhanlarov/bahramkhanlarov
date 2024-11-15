@@ -30,4 +30,4 @@ I'm a junior data analyst with a passion for turning data into actionable insigh
 
 - GitHub: github.com/bahramkhanlarov
 - LinkedIn: linkedin.com/in/bahramkhanlarov/
-- E-mail: bahram.khanlarov@stud.hslu.ch
+- E-mail: bahram.khanlarov@glion.ch
