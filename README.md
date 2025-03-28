@@ -4,7 +4,8 @@
 
 ## 🚀 About Me
 
-Currently enrolled in Master of Science in Applied Information and Data Science in HSLU Lucerne, I am transitioning into the world of data analytics and data science.I am willing to dive in at a granular level to mine and understand complex patterns, trends, and relations in data to surface hidden insight that can help and enable companies to make smarter business decisions and take appropriate actions to gain competitive advantages in the market.Graduate of bachelor from Glion and MBA from FHGR with 8 years of solid working experience in different management roles in Swiss Hospitality Industry.
+Data Analyst with a Master of Science in Applied Information and Data Science and over 4 years of experience in data analysis, business intelligence, and process optimization. Experienced in developing and maintaining dashboards and reports, using tools like Python,SQL, Excel, Tableau, and Power BI to track key performance indicators and communicate findings to stakeholders. Adept at coordinating high-profile events, optimizing administrative workflows, and maintaining confidentiality in multicultural settings, as demonstrated in roles supporting international students and stakeholders. Fluent in English (C1), French (C1), Turkish (C1), and Russian (C1), with a strong commitment to diplomacy and international collaboration. Adaptability to tight deadlines, and a passion for contributing to execution of business strategies through meticulous support and strategic problem-solving. ![image](https://github.com/user-attachments/assets/139c41e2-d3fa-4e3a-a4fb-511f4bb8948f)
+
 
 I'm a junior data analyst with a passion for turning data into actionable insights.
 
